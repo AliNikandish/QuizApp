@@ -11,7 +11,7 @@ I Make a “Quiz App” with these technologies:
 
 ## Screen Shot:
 
-<img src="https://raw.githubusercontent.com/AliNikandish/QuizApp/main/Screenshot%202023-11-14%20001511.png"/>
+<img src="https://raw.githubusercontent.com/AliNikandish/QuizApp/main/Screenshot%202023-11-15%20223554.png"/>
 
 ## Demo:
 soon
