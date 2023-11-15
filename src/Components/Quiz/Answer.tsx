@@ -10,7 +10,7 @@ const Answer = ({choice,index}:answerProp) => {
         onAnswerSelected(event.target.innerText,index)
     }
   return (
-    <button className={`w-full border-2 border-blue-200 mt-4 break-words p-1 ${index===selectedAnswerIndex ? 'bg-blue-700 text-white':' bg-blue-100  text-blue-950'}`} onClick={(event)=>clickHandler(event)}>{choice}</button>
+    <button className={`text-2xl w-full border-2 border-blue-200 mt-4 break-words p-1 ${index===selectedAnswerIndex ? 'bg-blue-700 text-white':' bg-blue-100  text-blue-950'}`} onClick={(event)=>clickHandler(event)}>{choice}</button>
     )
 }
 
