@@ -5,7 +5,7 @@ import { quiz } from './Questions'
 import { QuizContextType, resultType } from './Types/QuizTypes'
 import Result from './Components/Quiz/Result'
 import QuestionBox from './Components/Quiz/QuestionBox'
-
+import './App.css'
 
 export const QuizContext=createContext({} as QuizContextType)
 

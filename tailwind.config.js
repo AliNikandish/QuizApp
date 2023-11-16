@@ -6,6 +6,11 @@ export default {
   ],
   theme: {
     extend: {},
+    fontFamily:{
+      "VazirMedium":"VazirMedium",
+      "VazirBold":"VazirBold",
+      "VazirLight":"VazirLight",
+    },
   },
   plugins: [],
 }
