@@ -1,5 +1,5 @@
 import { useContext } from 'react'
-import { QuizContext } from '../../../App'
+import { QuizContext } from '../../App'
 
 function ResultDetails() {
     const {questions,result}=useContext(QuizContext)

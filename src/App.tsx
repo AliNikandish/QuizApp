@@ -3,7 +3,7 @@ import { createContext, useEffect, useState } from 'react'
 import './App.css'
 import { quiz } from './Questions'
 import { QuizContextType, resultType } from './Types/QuizTypes'
-import Result from './Components/Quiz/Result/Result'
+import Result from './Components/Result/Result'
 import QuestionBox from './Components/Quiz/QuestionBox'
 import './App.css'
 
