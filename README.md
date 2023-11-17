@@ -13,6 +13,7 @@ I Make a “Quiz App” with these technologies:
 
 <img src="https://raw.githubusercontent.com/AliNikandish/QuizApp/main/screen1.png"/>
 <img src="https://raw.githubusercontent.com/AliNikandish/QuizApp/main/screen2.png"/>
+<img src="https://raw.githubusercontent.com/AliNikandish/QuizApp/main/screen3.png"/>
 
 ## Demo:
 soon
