@@ -29,7 +29,7 @@ function ResultDetails() {
               <div className='bottomright  w-[500px] h-[100px] flex flex-col justify-between p-2'>
                   <div className=' flex  gap-x-8'>
                     <div className='w-3 h-3 bg-red-600 rounded-full'></div>
-                    <div className='text-3xl text-red-600'>{questions.length}</div>
+                    <div className='text-3xl text-red-600'>{result.wrongAnswers}</div>
                   </div>
                   <p className='text-gray-400'>پاسخ های غلط شما</p>
                 </div>
