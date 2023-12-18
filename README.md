@@ -16,7 +16,7 @@ I Make a “Quiz App” with these technologies:
 <img src="https://raw.githubusercontent.com/AliNikandish/QuizApp/main/screen3.png"/>
 
 ## Demo:
-soon
+[Click Here](https://fastidious-naiad-4dd9a5.netlify.app/)
 
 
 
