@@ -1,5 +1,3 @@
-import{ useContext } from 'react'
-import { QuizContext } from '../../App'
 import Score from './Score'
 import ResultDetails from './ResultDetails'
 
